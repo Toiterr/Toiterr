@@ -1,16 +1,19 @@
-## Hi there 👋
+# Here we are 🥥
 
-<!--
-**Toiterr/Toiterr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+It seems that I have a GitHub too, so, for someone who see this and don't know about me:
 
-Here are some ideas to get you started:
+## I'm Toiterr, real name is Maxim, some kind of geek 🤓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+For several years I practise in photography, video editing(and creating) and coding
+---
+If you care:
+
+<details>
+
+<summary>Photography</summary>
+
+I'm used to take pictures of nature, that is quite same, so I quickly started practising in color grading
+
+
+  
+</details>
