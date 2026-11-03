@@ -14,7 +14,7 @@ If you care:
 <summary>Photography</summary>
 
 I'm used to take pictures of nature, but them is quite same, so I quickly started practising in color grading
-[Summer trip](photo_2026-09-11_13-27-08.jpg)
+<img src = "photo_2026-09-11_13-27-08.jpg">
 
 </details>
 
