@@ -31,7 +31,8 @@ Most of videos are uploaded on youtube
 </details>
 
 ## Code
-At the start(~2020) I was writing JS/Python bots(not all by myself, mostly not all...).
+At the start(~2020) I was writing JS/Python bots(not all by myself, mostly not all...).  
+Since that time I coded some raw minigames(on C#/Lua), which are now lost.
 
-Now I am student of MIET and practising in C++/C#, let's see what it'll develop into 🤷
+Today I am student of MIET and practising in C++/C#, let's see what it'll develop into 🤷
 
